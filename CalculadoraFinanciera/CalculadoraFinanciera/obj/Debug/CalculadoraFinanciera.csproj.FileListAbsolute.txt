@@ -1,0 +1,41 @@
+C:\Users\Juan\source\repos\CalculadoraFinanciera\CalculadoraFinanciera\bin\Debug\CalculadoraFinanciera.exe.config
+C:\Users\Juan\source\repos\CalculadoraFinanciera\CalculadoraFinanciera\bin\Debug\CalculadoraFinanciera.exe
+C:\Users\Juan\source\repos\CalculadoraFinanciera\CalculadoraFinanciera\bin\Debug\CalculadoraFinanciera.pdb
+C:\Users\Juan\source\repos\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.csprojAssemblyReference.cache
+C:\Users\Juan\source\repos\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.General.resources
+C:\Users\Juan\source\repos\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.InteresSimple.resources
+C:\Users\Juan\source\repos\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.Properties.Resources.resources
+C:\Users\Juan\source\repos\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.csproj.GenerateResource.cache
+C:\Users\Juan\source\repos\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.exe
+C:\Users\Juan\source\repos\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.pdb
+C:\Users\Juan\source\repos\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.ValorActual.resources
+C:\Users\Juan\source\repos\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.I_VF_VA.resources
+C:\Users\Juan\source\repos\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.VA_n_i.resources
+C:\Users\Juan\source\repos\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.Valor_Futuro2.resources
+C:\Users\Juan\source\repos\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.Descuento.resources
+C:\Users\Juan\source\repos\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.Despejando1.resources
+C:\Users\Juan\source\repos\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.Despejando2.resources
+C:\Users\Juan\source\repos\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.Despejando3.resources
+C:\Users\Juan\source\repos\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.Despejando4.resources
+C:\Users\Emmanuel Cola\Desktop\CalculadoraFinanciera\CalculadoraFinanciera\bin\Debug\CalculadoraFinanciera.exe.config
+C:\Users\Emmanuel Cola\Desktop\CalculadoraFinanciera\CalculadoraFinanciera\bin\Debug\CalculadoraFinanciera.exe
+C:\Users\Emmanuel Cola\Desktop\CalculadoraFinanciera\CalculadoraFinanciera\bin\Debug\CalculadoraFinanciera.pdb
+C:\Users\Emmanuel Cola\Desktop\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.csprojAssemblyReference.cache
+C:\Users\Emmanuel Cola\Desktop\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.Descuento.resources
+C:\Users\Emmanuel Cola\Desktop\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.Descuento2.resources
+C:\Users\Emmanuel Cola\Desktop\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.Despejando1.resources
+C:\Users\Emmanuel Cola\Desktop\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.Despejando2.resources
+C:\Users\Emmanuel Cola\Desktop\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.Despejando3.resources
+C:\Users\Emmanuel Cola\Desktop\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.Despejando4.resources
+C:\Users\Emmanuel Cola\Desktop\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.General.resources
+C:\Users\Emmanuel Cola\Desktop\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.I_VF_VA.resources
+C:\Users\Emmanuel Cola\Desktop\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.InteresSimple.resources
+C:\Users\Emmanuel Cola\Desktop\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.Properties.Resources.resources
+C:\Users\Emmanuel Cola\Desktop\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.VA_n_i.resources
+C:\Users\Emmanuel Cola\Desktop\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.Valor_Futuro2.resources
+C:\Users\Emmanuel Cola\Desktop\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.ValorActual.resources
+C:\Users\Emmanuel Cola\Desktop\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.csproj.GenerateResource.cache
+C:\Users\Emmanuel Cola\Desktop\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel Cola\Desktop\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.exe
+C:\Users\Emmanuel Cola\Desktop\CalculadoraFinanciera\CalculadoraFinanciera\obj\Debug\CalculadoraFinanciera.pdb
